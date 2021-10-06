@@ -1,0 +1,12 @@
+.error{
+    padding: 35px;
+    background-color: #f00;
+    font-size: 30px;
+}
+
+.message{
+    padding: 5px;
+    color: #0f0;
+    font-size: 20px;
+
+}
